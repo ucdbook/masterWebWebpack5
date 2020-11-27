@@ -1,0 +1,18 @@
+# Don't check auto-generated stuff into git
+coverage
+node_modules
+stats.json
+.cache-loader
+
+# Cruft
+.DS_Store
+npm-debug.log
+.idea
+.yo-rc.json
+.magic_libs/
+libDist
+yarn.lock
+package-lock.json
+dist
+*.d.ts
+dll_copy
